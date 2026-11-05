@@ -22,9 +22,7 @@ Evaluated on a held-out test set of 1,115 messages (80/20 split).
 
 SVM gave the best balance. Naive Bayes had perfect spam precision but missed more spam (lower recall).
 
-![Results](results.png)
 
-> Note: exact numbers can vary slightly with the dataset version used.
 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn
